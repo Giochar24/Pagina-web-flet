@@ -1,0 +1,3559 @@
+{
+  "farmaco": [
+    {
+      "nombre": "Acarbosa",
+      "descripcion": "Cada TABLETA contiene: Acarbosa de 50 mg",
+      "categoria": "Antidiabético",
+      "interacciones": "Medicamentos como antiácidos, colestiramina, adsorbentes intestinales y preparados de enzimas digestivas, pueden disminuir el efecto de ACARBOSA. Si ésta se administra con sulfonilureas, metformina o insulina, se puede requerir disminución de la dosis de "
+    },
+    {
+      "nombre": "Aceite de ricino",
+      "descripcion": "Cada frasco con SOLUCIÓN contiene: Aceite de riciono 70 ml",
+      "categoria": "Laxante",
+      "interacciones": "El aumento de la motilidad intestinal reduce la absorción de los medicamentos que se administran simultáneamente."
+    },
+    {
+      "nombre": "Aciclovir",
+      "descripcion": "Cada frasco ámpula con liofilizado contiene:Aciclovir 250 mg",
+      "categoria": "Antiviral",
+      "interacciones": "La administración simultánea de probenecid con ACICLOVIR intravenoso aumenta la vida media promedio y el área bajo la curva de concentración-tiempo. Esta combinación reduce la excreción urinaria y la depuración renal. Los efectos clínicos de esta combina"
+    },
+    {
+      "nombre": "Ácido acetilsalicílico",
+      "descripcion": "FORMA FARMACÉUTICA Y FORMULACIÓN:\\r\\nCada TABLETA contiene:\\r\\nÁcido acetilsalicílico: 500 mg\\r\\nCada TABLETA efervescente contiene:\\r\\nÁcido acetilsalicílico: 300 mg",
+      "categoria": "Analgésico, antiinflamatorio, antipirético",
+      "interacciones": "Anticoagulantes: Se potencia el efecto.\\r\\nCorticosteroides: Riesgo de hemorragia gastrointestinal.\\r\\nAntirreumáticos, sulfonilureas, metotrexato: Se intensifica la acción y los efectos secundarios.\\r\\nEspironolactona, furosemida, fármacos antigota: Se reduce"
+    },
+    {
+      "nombre": "Ácido ascórbico",
+      "descripcion": "Cada AMPOLLETA contiene Ácido ascórbico de 1g",
+      "categoria": null,
+      "interacciones": "Hay evidencia limitada que sugiere que el ÁCIDO ASCÓRBICO puede influir sobre la intensidad y duración de acción de bishidroxicumarina.\\r\\n\\r\\nSalicilatos: Los salicilatos asociados con el ÁCIDO ASCÓRBICO disminuyen su excreción renal, lo cual puede provocar "
+    },
+    {
+      "nombre": "Ácido cítrico,bicarbonato de potasio y bitartrato de potasio",
+      "descripcion": "FORMA FARMACÉUTICA Y FORMULACIÓN:\\r\\nCada TABLETA soluble contiene:\\r\\nBicarbonato de potasio: 766 mg\\r\\nBitartrato de potasio: 460 mg\\r\\nAcido cítrico: 155 mg",
+      "categoria": null,
+      "interacciones": "La hipocaliemia aumenta el riesgo de intoxicación digitálica, mientras que la hipercaliemia disminuye la toxicidad y el efecto de la digital. Se ha reportado que su uso simultáneo con inhibidores de la enzima convertidora de angiotensina causó hipercaliem"
+    },
+    {
+      "nombre": "Ácido folínico",
+      "descripcion": "Cada ampolleta de SOLUCIÓN INYECTABLE contiene:\\r\\n\\r\\nFolinato de calcio equivalente a 3 mg\\r\\nde ácido folínico\\r\\n\\r\\nCada TABLETA contiene:\\r\\n\\r\\nFolinato de calcio equivalente a 15 mg\\r\\nde ácido folínico"
+    },
+    {
+      "nombre": "Sibutramina",
+      "descripcion": "Cápsulas",
+      "categoria": null
+    },
+    {},
+    {},
+    {},
+    {
+      "nombre": 3,
+      "descripcion": 4
+    }
+  ],
+  "medicamento": [
+    {
+      "id": 1,
+      "clave": "S/C",
+      "descripcion": 100
+    },
+    {
+      "id": 2,
+      "clave": "010.000.5943.00",
+      "descripcion": "Ibuprofeno 2g suspensión oral",
+      "presentacion": "Envase con 120 ml y dosificador",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ibuprofeno"
+    },
+    {
+      "id": 3,
+      "clave": "010.000.5941.00",
+      "descripcion": "Ibuprofeno 400 mg Cápsulas o tabletas",
+      "presentacion": "Envase con 10 cápsulas o tabletas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ibuprofeno"
+    },
+    {
+      "id": 4,
+      "clave": "S/c",
+      "descripcion": "Ibuprofeno 600 mg Cápsula o tableta",
+      "presentacion": "Envase con 10 cápsulas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er nivel",
+      "nombre_farmaco": "Ibuprofeno"
+    },
+    {
+      "id": 5,
+      "clave": "S/C",
+      "descripcion": "Metamizol 5 mg Jarabe",
+      "presentacion": "Jarabe con 120 ml",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 6,
+      "clave": "010.000.0108.00",
+      "descripcion": "Metamizol Sódico 500 mg Comprimido",
+      "presentacion": "Caja con 10 Comprimidos",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 7,
+      "clave": "010.000.0109.00",
+      "descripcion": "Metamizol Sódico 1 g Solución inyectable",
+      "presentacion": "Caja con 3 Ampolletas con 2ml",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 8,
+      "clave": "010.000.0106.00",
+      "descripcion": "Paracetamol 100 mg Solución oral",
+      "presentacion": "Envase Con Gotero 15 ml",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 9,
+      "clave": "010.000.0104.00",
+      "descripcion": "Paracetamol 500 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 10,
+      "clave": "s/c",
+      "descripcion": "Paracetamol 3.2 g Suspensión",
+      "presentacion": "Frasco con 120 ml",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 11,
+      "clave": "S/C",
+      "descripcion": "Ketorolaco 10 mg Tabletas",
+      "presentacion": "Caja Con 10 Tabletas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 12,
+      "clave": "010.000.3413.00",
+      "descripcion": "Indometacina 25 mg Cápsula",
+      "presentacion": "Envase con 30 Cápsulas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Indometacina"
+    },
+    {
+      "id": 13,
+      "clave": "S/C",
+      "descripcion": "Ácido Mefenámico 500 mg Tableta",
+      "presentacion": "Envase con 15 Tabletas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 14,
+      "clave": "S/C",
+      "descripcion": "Clonixinato de Lisina 250 mg Comprimidos",
+      "presentacion": "Caja con 10 Comprimidos",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Clonixinato de lisina"
+    },
+    {
+      "id": 15,
+      "clave": "010.000.3422.00",
+      "descripcion": "Ketorolaco 30 mg Solución Inyectable",
+      "presentacion": "Envase con 3 Frascos Ámpula o 3 Ampolletas de 1 ml",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 16,
+      "clave": "S/C",
+      "descripcion": "Ketorolaco 30 mg Tableta Sublingual",
+      "presentacion": "Envase con 6 Tabletas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 17,
+      "clave": "010.000.3423.00",
+      "descripcion": "Meloxicam 15 mg Tableta",
+      "presentacion": "Envase con 10 Tabletas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 18,
+      "clave": "010.000.5721.00",
+      "descripcion": "Paracetamol 1 g Solución Inyectable",
+      "presentacion": "Frasco Ámpula con 100 ml",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 19,
+      "clave": "S/C",
+      "descripcion": "Paracetamol 750 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 20,
+      "clave": "S/C",
+      "descripcion": "Tramadol 50 mg Capsula",
+      "presentacion": "Envase con10 Capsulas",
+      "clasificacion": "Analgesia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 21,
+      "clave": "S/C",
+      "descripcion": 100
+    },
+    {
+      "id": 22,
+      "clave": "010.000.2111.01",
+      "descripcion": "Amlodipino 5 mg Tableta o cápsula",
+      "presentacion": "Envase con 30 Tabletas o cápsulas.",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Amlodipino"
+    },
+    {
+      "id": 23,
+      "clave": "010.000.0574.00",
+      "descripcion": "Captopril 25 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Captopril"
+    },
+    {
+      "id": 24,
+      "clave": "010.000.0561.00",
+      "descripcion": "Clortalidona 50 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Clortalidona"
+    },
+    {
+      "id": 25,
+      "clave": "010.000.2501.00",
+      "descripcion": "Enalapril 10 mg Cápsula o tableta",
+      "presentacion": "Envase 30 Cápsulas o tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Enalapril"
+    },
+    {
+      "id": 26,
+      "clave": "s/c",
+      "descripcion": "Isosorbida 40 mg Tableta o cápsula",
+      "presentacion": "Envase con 40 Tabletas o cápsulas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Isosorbida"
+    },
+    {
+      "id": 27,
+      "clave": "010.000.0592.00",
+      "descripcion": "Isosorbida 5 mg Tableta sublingual",
+      "presentacion": "Envase con 20 Tabletas sublinguales",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Isosorbida"
+    },
+    {
+      "id": 28,
+      "clave": "S/C",
+      "descripcion": "Losartan 100 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 29,
+      "clave": "010.000.2520.00",
+      "descripcion": "Losartán 50 mg Gragea o comprimido recubierto",
+      "presentacion": "Envase con 30 Grageas o comprimidos",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 30,
+      "clave": "010.000.0572.00",
+      "descripcion": "Metoprolol 100 mg Tableta",
+      "presentacion": "Caja 20 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 31,
+      "clave": "s/c",
+      "descripcion": "Metoprolol 95 mg Tableta",
+      "presentacion": "Caja 20 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 32,
+      "clave": "010.000.0597.00",
+      "descripcion": "Nifedipino 10 mg Cápsula",
+      "presentacion": "Envase con 20 Cápsulas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Nifedipino"
+    },
+    {
+      "id": 33,
+      "clave": "010.000.0599.00",
+      "descripcion": "Nifedipino 30 mg Comprimido de liberación prolongada",
+      "presentacion": "Envase con 30 Comprimidos",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Nifedipino"
+    },
+    {
+      "id": 34,
+      "clave": "010.000.0539.00",
+      "descripcion": "Propanolol 10 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 35,
+      "clave": "010.000.0530.00",
+      "descripcion": "Propranolol 40 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 36,
+      "clave": "010.000.4110.00",
+      "descripcion": "Amiodarona 200 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 37,
+      "clave": "S/C",
+      "descripcion": "Atenolol 50 mg Tableta",
+      "presentacion": "Envase 28 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 38,
+      "clave": "S/C",
+      "descripcion": "Bisoprolol 2.50 mg Gragea o comprimido",
+      "presentacion": "Envase con 30 Grageas o Comprimidos",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 39,
+      "clave": "S/C",
+      "descripcion": "Bisoprolol 5 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 40,
+      "clave": "S/C",
+      "descripcion": "Candasertan 8 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 41,
+      "clave": "S/C",
+      "descripcion": "Candesartan Cilexetilo 16 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 42,
+      "clave": "S/C",
+      "descripcion": "Carvedilol 0.25 mg Tableta",
+      "presentacion": "Envase con 14 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 43,
+      "clave": "010.000.4246.01",
+      "descripcion": "Clopidogrel 75 mg Gragea o Tableta",
+      "presentacion": "Envase con 28 Grageas o Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 44,
+      "clave": "010.000.0502.00",
+      "descripcion": "Digoxina 0.25 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 45,
+      "clave": "S/C",
+      "descripcion": "Diltiazem 120 mg Gragea o Tableta",
+      "presentacion": "Envase con 20 Tabletas o Grageas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Diltiazem"
+    },
+    {
+      "id": 46,
+      "clave": "010.000.2112.00",
+      "descripcion": "Diltiazem 30 mg Gragea o Tableta",
+      "presentacion": "Envase con 30 Tabletas o Grageas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Diltiazem"
+    },
+    {
+      "id": 47,
+      "clave": "S/C",
+      "descripcion": "Diltiazem 90 mg Gragea o Tableta",
+      "presentacion": "Envase con 20 Tabletas o Grageas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Diltiazem"
+    },
+    {
+      "id": 48,
+      "clave": "010.000.4095.00",
+      "descripcion": "Irbesartán 150 mg Tableta",
+      "presentacion": "Envase con 28 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 49,
+      "clave": "S/C",
+      "descripcion": "Lercanidipino 10 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 50,
+      "clave": "010.000.2521.00",
+      "descripcion": "Losartán, Hidroclorotiazida 50 mg / 12.5 mg Gragea o Comprimido",
+      "presentacion": "Envase con 30 Grageas o Comprimidos recubiertos",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 51,
+      "clave": "S/C",
+      "descripcion": "Losartan, Hidroclorotiazida 100 mg /25 mg Gragea",
+      "presentacion": "Caja con 30 Grageas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 52,
+      "clave": "010.000.0566.00",
+      "descripcion": "Metildopa 500 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 53,
+      "clave": "010.000.4117.00",
+      "descripcion": "Pentoxifilina 400 mg Tableta o Gragea",
+      "presentacion": "Envase con 30 Tabletas O Grageas de liberación prolongada",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 54,
+      "clave": "010.000.0573.00",
+      "descripcion": "Prazosina 2 mg Cápsula o Comprimido",
+      "presentacion": "Envase con 30 Cápsulas o Comprimidos",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 55,
+      "clave": "010.000.0537.00",
+      "descripcion": "Propafenona 150 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 56,
+      "clave": "S/C",
+      "descripcion": "Ramipril 5 mg Tableta",
+      "presentacion": "Caja con 16 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 57,
+      "clave": "S/C",
+      "descripcion": "Telmisartan 80 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 58,
+      "clave": "010.000.2540.00",
+      "descripcion": "Telmisartán 40 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 59,
+      "clave": "S/C",
+      "descripcion": "Valsartan 80 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 60,
+      "clave": "010.000.2542.00",
+      "descripcion": "Telmisartán, hidroclorotiazida 80 mg / 12.5 mg Tableta",
+      "presentacion": "Caja con 14 Tabletas",
+      "clasificacion": "Cardiología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 61,
+      "clave": "010.000.2118.00",
+      "descripcion": "Aceite de almendras dulces/ Hidróxido de calcio Crema",
+      "presentacion": "Envase con 240 ml",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 62,
+      "clave": "010.000.0801.01",
+      "descripcion": "Baño Coloide pH 5.75",
+      "presentacion": "Envase con sobres de 90g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 63,
+      "clave": "010.000.0872.00",
+      "descripcion": "Clioquinol 30 mg Crema",
+      "presentacion": "Envase con 20 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Clioquinol"
+    },
+    {
+      "id": 64,
+      "clave": "010.000.2024.00",
+      "descripcion": "Isoconazol 1 g Crema",
+      "presentacion": "Envase con 20 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Isoconazol"
+    },
+    {
+      "id": 65,
+      "clave": "010.000.0891.00",
+      "descripcion": "Miconazol 20 mg Crema",
+      "presentacion": "Envase con 20 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 66,
+      "clave": "010.000.0804.00",
+      "descripcion": "Óxido de zinc 25g / 100 g Pasta",
+      "presentacion": "Envase o tarro con 30 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Óxido de zinc"
+    },
+    {
+      "id": 67,
+      "clave": "010.000.0865.00",
+      "descripcion": "Permetrina 1 g Emulsion",
+      "presentacion": "Envase con 110 ml",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 68,
+      "clave": "010.000.0901.00",
+      "descripcion": "Podofilina 250 mg Solución dérmica",
+      "presentacion": "Envase con 5 ml",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 69,
+      "clave": "S/C",
+      "descripcion": "Triticum vulgare / Fenoxietanol 15 g / 1 g",
+      "presentacion": "Caja con tubo con 30 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 70,
+      "clave": "010.000.0831.00",
+      "descripcion": "Alantoína y Alquitrán de hulla, Clioquinol Shampoo",
+      "presentacion": "Envase con 120 ml",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Clioquinol"
+    },
+    {
+      "id": 71,
+      "clave": "S/C",
+      "descripcion": "Betametasona 8 mg Solución inyectable",
+      "presentacion": "Caja con 1 Ampolleta con 2 ml",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 72,
+      "clave": "010.000.2119.00",
+      "descripcion": "Betametasona 50 mg Ungüento",
+      "presentacion": "Caja con tubo de 30 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 73,
+      "clave": "010.000.4136.00",
+      "descripcion": "Clindamicina 1 g Gel",
+      "presentacion": "Envase con 30 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Clindamicina"
+    },
+    {
+      "id": 74,
+      "clave": "S/C",
+      "descripcion": "Clobetasol 0.05 Crema",
+      "presentacion": "Tubo con 30g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 75,
+      "clave": "010.000.0813.00",
+      "descripcion": "Hidrocortisona 1 mg Crema",
+      "presentacion": "Envase con 15 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Hidrocortisona"
+    },
+    {
+      "id": 76,
+      "clave": "010.000.2123.00",
+      "descripcion": "Mupirocina 2 g Ungüento",
+      "presentacion": "Envase con 15 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 77,
+      "clave": "S/C",
+      "descripcion": "Terbinafina 1g Crema",
+      "presentacion": "Envase con 30 g",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 78,
+      "clave": "S/C",
+      "descripcion": "Terbinafina 250 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Dermatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 79,
+      "clave": "010.000.5166.00",
+      "descripcion": "Acarbosa 50 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Acarbosa"
+    },
+    {
+      "id": 80,
+      "clave": "S/C",
+      "descripcion": "Atorvastatina 20 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 81,
+      "clave": "S/C",
+      "descripcion": "Atorvastatina 40 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 82,
+      "clave": "010.000.0655.00",
+      "descripcion": "Bezafibrato 200 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Bezafibrato"
+    },
+    {
+      "id": 83,
+      "clave": "010.000.1006.00",
+      "descripcion": "Calcio 500 mg Comprimido efervescente",
+      "presentacion": "Envase con 12 Comprimidos",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Calcio"
+    },
+    {
+      "id": 84,
+      "clave": "010.000.1042.00",
+      "descripcion": "Glibenclamida 5 mg Tableta",
+      "presentacion": "Envase 50 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Glibenclamida"
+    },
+    {
+      "id": 85,
+      "clave": "010.000.1051.01",
+      "descripcion": "Insulina Humana Acción Rápida Regular 100 UI/ml Solución Inyectable",
+      "presentacion": "Un frasco ámpula con 10 ml",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Insulina humana regular"
+    },
+    {
+      "id": 86,
+      "clave": "010.000.1050.01",
+      "descripcion": "Insulina Humana Acción Intemedia NPH 100 UI/ml Suspensión Inyectable",
+      "presentacion": "Un frasco ámpula con 10 ml",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Insulina humana NPH"
+    },
+    {
+      "id": 87,
+      "clave": "S/C",
+      "descripcion": "Metformina 1000 mg Tableta",
+      "presentacion": "Caja con 30 tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 88,
+      "clave": "S/C",
+      "descripcion": "Metformina 500 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 89,
+      "clave": "010.000.5165.00",
+      "descripcion": "Metformina 850 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 90,
+      "clave": "010.000.0472.00",
+      "descripcion": "Prednisona 5 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 91,
+      "clave": "S/C",
+      "descripcion": "Ácido Ursodexicolico 250 mg Tableta",
+      "presentacion": "Envase con 50 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 92,
+      "clave": "S/C",
+      "descripcion": "Cabergolina 0.5 mg Tableta",
+      "presentacion": "Envase con 4 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 93,
+      "clave": "010.000.1095.00",
+      "descripcion": "Calcitriol 0.25 µg Cápsula de gelatina blanda",
+      "presentacion": "Envase con 50 Cápsulas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Calcitriol"
+    },
+    {
+      "id": 94,
+      "clave": "010.000.4505.00",
+      "descripcion": "Deflazacort 6 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 95,
+      "clave": "010.000.5333.00",
+      "descripcion": "Eritropoyetina 4 000 UI Solución Inyectable",
+      "presentacion": "Frascos con 6 Ámpula con o sin diluyente",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 96,
+      "clave": "010.000.4165.00",
+      "descripcion": "Insulina Detemir 100 UI Solución Inyectable",
+      "presentacion": "Pluma prellenada con 3 ml",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 97,
+      "clave": "010.000.4158.01",
+      "descripcion": "Insulina Glargina 3.64 mg Solución Inyectable",
+      "presentacion": "Envase con 5 Plumas con 3 ml",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 98,
+      "clave": "010.000.4158.00",
+      "descripcion": "Insulina Glargina 3.64 Solución Inyectable",
+      "presentacion": "Envase frasco ámpula 10 ml",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 99,
+      "clave": "010.000.4148.00",
+      "descripcion": 25,
+      "presentacion": 75
+    },
+    {
+      "id": 100,
+      "clave": "010.000.4162.00"
+    },
+    {
+      "id": 101,
+      "clave": "S/C",
+      "descripcion": "Glimepirida 4 mg Tableta",
+      "presentacion": "Envase con 28 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 102,
+      "clave": "S/C",
+      "descripcion": "Levotiroxina Sódica 25 mcg Tableta",
+      "presentacion": "Envase con 30 tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 103,
+      "clave": "S/C",
+      "descripcion": "Levotiroxina Sódica 75 mcg Tableta",
+      "presentacion": "Envase con 50 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 104,
+      "clave": "S/C",
+      "descripcion": "Levotiroxina Sódica 50 mcg Tableta",
+      "presentacion": "Envase con 50 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 105,
+      "clave": "010.000.1007.00",
+      "descripcion": "Levotiroxina Sódica 100 mcg Tableta",
+      "presentacion": "Envase con 100 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 106,
+      "clave": "010.000.5621.00",
+      "descripcion": "Linagliptina 5 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 107,
+      "clave": "S/C",
+      "descripcion": "Levotiroxina sódica/Liotironina 100 mcg/20 mcg Tableta",
+      "presentacion": "Caja con 50 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 108,
+      "clave": "S/C",
+      "descripcion": "Pioglitazona 30 mg Tableta",
+      "presentacion": "Envase con 7 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 109,
+      "clave": "010.000.4149.00",
+      "descripcion": "Pioglitazona 15 mg Tableta",
+      "presentacion": "Envase con 7 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 110,
+      "clave": "S/C",
+      "descripcion": "Prednisona 20 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 111,
+      "clave": "010.000.0473.00",
+      "descripcion": "Prednisona 50 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 112,
+      "clave": "S/C",
+      "descripcion": "Pregabalina 150 mg cápsula 150",
+      "presentacion": "Envase con 28 Cápsulas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 113,
+      "clave": "010.000.4356.01",
+      "descripcion": "Pregabalina 75 mg Cápsula",
+      "presentacion": "Envase con 28 Cápsulas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 114,
+      "clave": "010.000.4124.01",
+      "descripcion": "Simvastatina 20 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Simvastatina"
+    },
+    {
+      "id": 115,
+      "clave": "010.000.4152.01",
+      "descripcion": "Sitagliptina 100 mg Comprimido",
+      "presentacion": "Envase con 28 Comprimidos",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 116,
+      "clave": "S/C",
+      "descripcion": "Sitagliptina/ Metformina 50/1000 comprimido",
+      "presentacion": "Envase con 56 Comprimidos",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 117,
+      "clave": "S/C",
+      "descripcion": "Sitagliptina/ Metformina 50/850 comprimido",
+      "presentacion": "Envase con 28 Comprimidos",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 118,
+      "clave": "010.000.1022.00",
+      "descripcion": "Tiamazol 5 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Tiamazol"
+    },
+    {
+      "id": 119,
+      "clave": "S/C",
+      "descripcion": "Ezetimiba/Simvastatina 10mg/20mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Endocrinología Y Metabolismo",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Simvastatina"
+    },
+    {
+      "id": 120,
+      "clave": "S/C",
+      "descripcion": "Aciclovir 5 mg Crema",
+      "presentacion": "Tubo con 10 g de Crema Tópica",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Aciclovir"
+    },
+    {
+      "id": 121,
+      "clave": "010.000.1345.00",
+      "descripcion": "Albendazol 400 mg Suspensión Oral",
+      "presentacion": "Envase con 20 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Albendazol"
+    },
+    {
+      "id": 122,
+      "clave": "010.000.1344.00",
+      "descripcion": "Albendazol 200 mg Tableta",
+      "presentacion": "Caja con 6 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Albendazol"
+    },
+    {
+      "id": 123,
+      "clave": "010.000.2128.01",
+      "descripcion": "Amoxicilina 500 mg Cápsula",
+      "presentacion": "Caja 15 Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Amoxicilina"
+    },
+    {
+      "id": 124,
+      "clave": "010.000.2127.00",
+      "descripcion": "Amoxicilina 500 mg Suspensión oral",
+      "presentacion": "Frasco con polvo para reconstituir a 75 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Amoxicilina"
+    },
+    {
+      "id": 125,
+      "clave": "010.000.2129.00",
+      "descripcion": "Amoxicilina / Ácido Clavulánico 250 mg/62.5 mg Suspensión Oral",
+      "presentacion": "Envase de 60 ml con vaso dosificador",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Amoxicilina"
+    },
+    {
+      "id": 126,
+      "clave": "010.000.2230.00",
+      "descripcion": "Amoxicilina/Ácido Clavulánico 500 mg/125 mg Tableta",
+      "presentacion": "Caja con 12 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Amoxicilina"
+    },
+    {
+      "id": 127,
+      "clave": "010.000.1930.00",
+      "descripcion": "Ampicilina 500 mg Suspensión Oral",
+      "presentacion": "Envase con polvo para reconstituir a 60 ml con dosificador",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ampicilina"
+    },
+    {
+      "id": 128,
+      "clave": "010.000.1929.00",
+      "descripcion": "Ampicilina 500 mg Cápsula o Tableta",
+      "presentacion": "Envase con 20 Tabletas O Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ampicilina"
+    },
+    {
+      "id": 129,
+      "clave": "010.000.1969.01",
+      "descripcion": "Azitromicina 500 mg Tableta",
+      "presentacion": "Caja 3 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Azitromicina"
+    },
+    {
+      "id": 130,
+      "clave": "010.000.1923.00",
+      "descripcion": "Bencilpenicilina Procaínica Con Bencilpenicilina Cristalina 300 000 UI, 100 000 UI Suspensión Inyectable",
+      "presentacion": "Frasco ámpula con diluyente de 2 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Bencilpenicilina"
+    },
+    {
+      "id": 131,
+      "clave": "010.000.1924.00",
+      "descripcion": "Bencilpenicilina Procaínica Con Bencilpenicilina Cristalina 600 000 UI, 200 000 UI Suspensión Inyectable",
+      "presentacion": "Frasco ámpula con diluyente de 2ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Bencilpenicilina"
+    },
+    {
+      "id": 132,
+      "clave": "010.000.1925.00",
+      "descripcion": "Benzatina Bencilpenicilina 1 200 000 UI Suspensión Inyectable",
+      "presentacion": "Frasco ámpula con diluyente de 5 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Bencilpenicilina"
+    },
+    {
+      "id": 133,
+      "clave": "S/C",
+      "descripcion": "Ciprofloxacino 500 mg Cápsula o Tableta",
+      "presentacion": "Envase con 14 Cápsulas o Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ciprofloxacino"
+    },
+    {
+      "id": 134,
+      "clave": "S/C",
+      "descripcion": "Claritromicina 500 mg Tableta",
+      "presentacion": "Caja 10 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Claritromicina"
+    },
+    {
+      "id": 135,
+      "clave": "010.000.1926.00",
+      "descripcion": "Dicloxacilina 500 mg Cápsula o Comprimido",
+      "presentacion": "Envase con 20 Cápsulas o Comprimidos",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Dicloxacilina"
+    },
+    {
+      "id": 136,
+      "clave": "010.000.1927.00",
+      "descripcion": "Dicloxacilina 250 mg Suspensión Oral",
+      "presentacion": "Envase con polvo para reconstituir a 60 ml con dosificador",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Dicloxacilina"
+    },
+    {
+      "id": 137,
+      "clave": "010.000.1940.00",
+      "descripcion": "Doxiciclina 100 mg Cápsula o Tableta",
+      "presentacion": "Envase con 10 Cápsulas o Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Doxiciclina"
+    },
+    {
+      "id": 138,
+      "clave": "010.000.1971.00",
+      "descripcion": "Eritromicina 500 mg Cápsula o tableta",
+      "presentacion": "Envase con 20 Cápsulas o Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 139,
+      "clave": "010.000.1972.00",
+      "descripcion": "Eritromicina 250 mg Suspensión Oral",
+      "presentacion": "Envase con polvo para reconstituir a 100 ml con dosificador",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 140,
+      "clave": "010.000.2018.00",
+      "descripcion": "Itraconazol 100 mg Cápsula",
+      "presentacion": "Envase con 15 Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Itraconazol"
+    },
+    {
+      "id": 141,
+      "clave": "010.000.2016.00",
+      "descripcion": "Ketoconazol 200 mg Tableta",
+      "presentacion": "Envase con 10 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 142,
+      "clave": "S/C",
+      "descripcion": "Mebendazol 500 mg Tabletas",
+      "presentacion": "Envase con 1 Tableta",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 143,
+      "clave": "S/C",
+      "descripcion": "Metronidazol / Dyodohidroxiquileina 200 mg / 400 mg Cápsulas",
+      "presentacion": "Caja con 30 Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 144,
+      "clave": "010.000.1310.00",
+      "descripcion": "Metronidazol 250 mg Suspensión Oral",
+      "presentacion": "Frasco con 120 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 145,
+      "clave": "010.000.1308.01",
+      "descripcion": "Metronidazol 500 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 146,
+      "clave": "S/C",
+      "descripcion": "Metronidazol Y Diyodohidroxiquinoleina 2.5 g / 2.0 g Suspensión",
+      "presentacion": "Frasco con 120 ml Suspensión",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 147,
+      "clave": "S/C",
+      "descripcion": "Nifuroxazida 200 mg Cápsula o tableta",
+      "presentacion": "Caja con 16 Capsulas o Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 148,
+      "clave": "S/C",
+      "descripcion": "Nifuroxazida 4.4 g Suspensión",
+      "presentacion": "Frasco con 120 ml y vaso dosificador",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 149,
+      "clave": "010.000.2524.00",
+      "descripcion": "Nitazoxanida 100 mg Suspensión Oral",
+      "presentacion": "Envase con 30 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 150,
+      "clave": "010.000.2519.00",
+      "descripcion": "Nitazoxanida 500 mg Tableta",
+      "presentacion": "Envase con 6 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 151,
+      "clave": "010.000.1911.00",
+      "descripcion": "Nitrofurantoína 100 mg Cápsula",
+      "presentacion": "Envase con 40 Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Nitrofurantoína"
+    },
+    {
+      "id": 152,
+      "clave": "010.000.5302.00",
+      "descripcion": "Nitrofurantoína 25 mg Suspensión Oral",
+      "presentacion": "Envase con 120 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Nitrofurantoína"
+    },
+    {
+      "id": 153,
+      "clave": "S/C",
+      "descripcion": "Trimetoprima-Sulfametoxazol 160 mg/ 800 mg Comprimido o Tableta",
+      "presentacion": "Envase con 14 Comprimidos o Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel"
+    },
+    {
+      "id": 154,
+      "clave": "010.000.1904.00",
+      "descripcion": "Trimetoprima-Sulfametoxazol 40mg / 200 mg Suspensión",
+      "presentacion": "Envase con 120 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel"
+    },
+    {
+      "id": 155,
+      "clave": "S/C",
+      "descripcion": "Ceftriaxona 1 g Solución inyectable I.M.",
+      "presentacion": "Caja con 1 Frasco ámpula",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ceftriaxona"
+    },
+    {
+      "id": 156,
+      "clave": "S/C",
+      "descripcion": "Amikacina 500 mg solución inyectable",
+      "presentacion": "Caja con 1 Frasco ámpula",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Amikacina"
+    },
+    {
+      "id": 157,
+      "clave": "S/C",
+      "descripcion": "Lactobacillus 5 mil millones Cápsula",
+      "presentacion": "Caja con 16 capsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 158,
+      "clave": "S/C",
+      "descripcion": "Mebendazol 20 mg Suspensión Oral",
+      "presentacion": "Suspensión 30 ml",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 159,
+      "clave": "010.000.2126.00",
+      "descripcion": "Aciclovir 400 mg Comprimido o Tableta",
+      "presentacion": "Envase con 35 Comprimidos o Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Aciclovir"
+    },
+    {
+      "id": 160,
+      "clave": "010.000.2141.00",
+      "descripcion": "Betametasona 4 mg Solución Inyectable",
+      "presentacion": "Frasco 1 ml Ampolleta",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 161,
+      "clave": "010.000.1939.00",
+      "descripcion": "Cefalexina 500 mg Cápsula o Tableta",
+      "presentacion": "Envase con 20 Tabletas o Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Cefalexina"
+    },
+    {
+      "id": 162,
+      "clave": "S/C",
+      "descripcion": "Cefalexina 250 mg Suspensión",
+      "presentacion": "Envase con 100 ml y dosificador",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Cefalexina"
+    },
+    {
+      "id": 163,
+      "clave": "S/C",
+      "descripcion": "Cefixima 40 mg Tableta",
+      "presentacion": "Envase con 6 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 164,
+      "clave": "S/C",
+      "descripcion": "Cefuroxima 500 mg Tableta",
+      "presentacion": "Caja con 10 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 165,
+      "clave": "S/C",
+      "descripcion": "Clindamicina /Ketoconazol 100 mg / 400 mg Óvulos",
+      "presentacion": "Caja con 7 Óvulos",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Clindamicina"
+    },
+    {
+      "id": 166,
+      "clave": "010.000.2133.00",
+      "descripcion": "Clindamicina 300 mg Cápsula",
+      "presentacion": "Envase con 16 Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Clindamicina"
+    },
+    {
+      "id": 167,
+      "clave": "S/C",
+      "descripcion": "Fluconazol 150 mg Cápsulas",
+      "presentacion": "Caja con 1 Cápsula",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Fluconazol"
+    },
+    {
+      "id": 168,
+      "clave": "010.000.5267.00",
+      "descripcion": "Fluconazol 100 mg Cápsula o Tableta",
+      "presentacion": "Envase con 10 Cápsulas O Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Fluconazol"
+    },
+    {
+      "id": 169,
+      "clave": "010.000.4300.00",
+      "descripcion": "Levofloxacino 750 mg Tableta",
+      "presentacion": "Envase con 7 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 170,
+      "clave": "S/C",
+      "descripcion": "Mebendazol / Quinfamida 300 mg / 150 mg Tableta",
+      "presentacion": "Envase con 2 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Quinfamida"
+    },
+    {
+      "id": 171,
+      "clave": "S/C",
+      "descripcion": "Metronidazol / Nifuroxazida 600/200 Capsula",
+      "presentacion": "Envase con 20 Cápsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 172,
+      "clave": "010.000.4252.00",
+      "descripcion": "Moxifloxacino 400 mg Tableta",
+      "presentacion": "Envase con 7 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 173,
+      "clave": "S/C",
+      "descripcion": "Nifuroxazida 400 mg Cápsula",
+      "presentacion": "Envase Con 16 Capsulas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 174,
+      "clave": "S/C",
+      "descripcion": "Nitrofurazona 0.2 g Pomada",
+      "presentacion": "Tubo 85 g",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 175,
+      "clave": "S/C",
+      "descripcion": "Norfloxacino 400 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Enfermedades Infecciosas Y Parasitarias",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 176,
+      "clave": "S/C",
+      "descripcion": "Amantadina, Clorfenamina, Paracetamol 0.500 g /0.020 g /3.00 g Solución",
+      "presentacion": "Solución 60 ml con dosificador",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Clorfenamina"
+    },
+    {
+      "id": 177,
+      "clave": "S/C",
+      "descripcion": "Amantadina, Clorfenamina, Paracetamol 2.5 g /0.1 g / 15g Gotas",
+      "presentacion": "Solución 30ml gotero",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Clorfenamina"
+    },
+    {
+      "id": 178,
+      "clave": "S/C",
+      "descripcion": "Amantadina, Clorfenamina, Paracetamol 50 mg/3 mg/300 mg Cápsula",
+      "presentacion": "Caja con 24 Cápsulas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Clorfenamina"
+    },
+    {
+      "id": 179,
+      "clave": "S/C",
+      "descripcion": "Cetirizina 10 mg Tableta",
+      "presentacion": "Caja con Tabletas 10",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 180,
+      "clave": "010.000.0402.00",
+      "descripcion": "Clorfenamina 4 mg Tableta",
+      "presentacion": "Envase 20 Tabletas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Clorfenamina"
+    },
+    {
+      "id": 181,
+      "clave": "010.000.0408.00",
+      "descripcion": "Clorfenamina 0.5 mg Jarabe",
+      "presentacion": "Envase con 60 ml y dosificador",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Clorfenamina"
+    },
+    {
+      "id": 182,
+      "clave": "S/C",
+      "descripcion": "Cloropiramina Clorhidrato 25 mg Tableta",
+      "presentacion": "Caja con 20 Tabletas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 183,
+      "clave": "010.000.3146.00",
+      "descripcion": "Fexofenadina 180 mg Comprimidos",
+      "presentacion": "Envase con 10 comprimidos",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 184,
+      "clave": "S/C",
+      "descripcion": "Ketoconazol 2% Crema",
+      "presentacion": "Crema 30",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 185,
+      "clave": "S/C",
+      "descripcion": "Levocetirizina Solución 0.5 mg Solución",
+      "presentacion": "Solución 150 ml",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 186,
+      "clave": "010.000.3150.00",
+      "descripcion": "Levocetirizina 5 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 187,
+      "clave": "S/C",
+      "descripcion": "Loratadina, Ambroxol 100 mg / 600 mg Solución",
+      "presentacion": "Frasco 120 ml con dosificador",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ambroxol"
+    },
+    {
+      "id": 188,
+      "clave": "010.000.2144.00",
+      "descripcion": "Loratadina 10 mg Gragea o Tableta",
+      "presentacion": "Envase con 20 Tabletas o Grageas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 189,
+      "clave": "010.000.2145.00",
+      "descripcion": "Loratadina 100 mg Jarabe",
+      "presentacion": "Envase con 60 ml y dosificador",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 190,
+      "clave": "S/C",
+      "descripcion": "Ácido Fusidico / Betametasona 2 mg Crema",
+      "presentacion": "Crema tubo con 15 g",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 191,
+      "clave": "010.000.5079.00",
+      "descripcion": "Cloropiramina 20 mg Solución Inyectable",
+      "presentacion": "Frasco con 5 Ampolletas de 2ml",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 192,
+      "clave": "S/C",
+      "descripcion": "Desloratadina 500 mg Jarabe",
+      "presentacion": "Suspensión con 120ml",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 193,
+      "clave": "S/C",
+      "descripcion": "Desloratadina 5 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 194,
+      "clave": "S/C",
+      "descripcion": "Fexofenadina 120 mg Comprimido",
+      "presentacion": "Envase 10 Comprimidos",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 195,
+      "clave": "010.000.5646.00",
+      "descripcion": "Fluticasona 27.5 mg Suspensión en Aerosol Nasal",
+      "presentacion": "Envase con 120 Disparos",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 196,
+      "clave": "010.000.5980.00",
+      "descripcion": "Fluticasona / Vilanterol 100 mg/25 mg Polvo para Inhalación",
+      "presentacion": "Envase con dispositivo inhalador de 30 dosis",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 197,
+      "clave": "S/C",
+      "descripcion": "Isotipendilo 0.75 g Jalea",
+      "presentacion": "Tubo con 25 g",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 198,
+      "clave": "S/C",
+      "descripcion": "Ivermectina 6 mg Tableta",
+      "presentacion": "Cajas con blíster pack de 4 tabletas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 199,
+      "clave": "S/C",
+      "descripcion": "Lisados Bacterianos Solución",
+      "presentacion": "Solución 10 Ámpulas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 200,
+      "clave": "S/C",
+      "descripcion": "Meclizina/ Piridoxina 25mg/50mg Tableta",
+      "presentacion": "Caja con 25 Tabletas",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 201,
+      "clave": "S/C",
+      "descripcion": "Mometasona 0.1% Crema",
+      "presentacion": "Envase con 15 g",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 202,
+      "clave": "010.000.4141.00",
+      "descripcion": "Mometasona 50 µg Suspensión Para Inhalación",
+      "presentacion": "Caja con frasco con valvula dosificadora 18 ml",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 203,
+      "clave": "S/C",
+      "descripcion": "Norfenefrina 1g Solución gotas",
+      "presentacion": "Frasco con gotero de 24 ml",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 204,
+      "clave": "S/C",
+      "descripcion": "Oximetazolina 0.025% Solución en Spray Nasal",
+      "presentacion": "Solución en spray nasal",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Oximetazolina"
+    },
+    {
+      "id": 205,
+      "clave": "S/C",
+      "descripcion": "Teofilina/Amboxol 0.700/150 g Jarabe",
+      "presentacion": "Jarabe con 150 ml y dosificador",
+      "clasificacion": "Enfermedades Inmunoalérgicas",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 206,
+      "clave": "010.000.1263.00",
+      "descripcion": "Bismuto 1.75 g Suspensión Oral",
+      "presentacion": "Envase con 240 ml y dosificador",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 207,
+      "clave": "010.000.1206.00",
+      "descripcion": "Butilhioscina o Hioscina 10 mg Gragea o Tableta",
+      "presentacion": "Caja con 10 Grageas O Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Butilhioscina"
+    },
+    {
+      "id": 208,
+      "clave": "010.000.1207.00",
+      "descripcion": "Butilhioscina o Hioscina 20 mg Solución Inyectable",
+      "presentacion": "Frasco con 3 Ampolletas de 1 ml",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Butilhioscina"
+    },
+    {
+      "id": 209,
+      "clave": "010.000.2247.00",
+      "descripcion": "Cinitaprida 1 mg Comprimido",
+      "presentacion": "Envase con 25 Comprimidos",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 210,
+      "clave": "010.000.1208.00",
+      "descripcion": "Cisaprida 100 mg Suspension Oral",
+      "presentacion": "Envase con 60ml y dosificador",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Cisaprida"
+    },
+    {
+      "id": 211,
+      "clave": "S/C",
+      "descripcion": "Cisaprida 10 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Cisaprida"
+    },
+    {
+      "id": 212,
+      "clave": "010.000.6099.00",
+      "descripcion": "Lactulosa 66.70 g Jarabe",
+      "presentacion": "Envase con 120 ml y dosificador",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 213,
+      "clave": "010.000.4184.00",
+      "descripcion": "Loperamida 2 mg Comprimido, Gragea o Tableta",
+      "presentacion": "Envase con 12 Comprimidos, Tabletas o Grageas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 214,
+      "clave": "S/C",
+      "descripcion": "Magaldrato, Dimeticona 80 g / 1 g Gel",
+      "presentacion": "Frasco con 250 ml de Gel",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 215,
+      "clave": "010.000.1241.00",
+      "descripcion": "Metoclopramida 10 mg Solución Inyectable",
+      "presentacion": "Envase con 6 Ampolletas de 2 ml",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 216,
+      "clave": "010.000.1242.00",
+      "descripcion": "Metoclopramida 10 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 217,
+      "clave": "S/C",
+      "descripcion": "Omeprazol 20mg Cápsula",
+      "presentacion": "Envase o caja con 20 Cápsulas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Omeprazol"
+    },
+    {
+      "id": 218,
+      "clave": "010.000.1210.00",
+      "descripcion": "Bromuro de Pinaverio 100 mg Tableta",
+      "presentacion": "Envase con 28 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 219,
+      "clave": "010.000.1271.00",
+      "descripcion": "Plántago Psyllium 49.7 g Polvo",
+      "presentacion": "Envase con 400 g",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 220,
+      "clave": "010.000.1272.00",
+      "descripcion": "Senósidos A-B 8.6 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas.",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Senósidos A-B"
+    },
+    {
+      "id": 221,
+      "clave": "S/C",
+      "descripcion": "Dimeticona, Pancreatina, Extracto Seco Bilis De Buey Gragea",
+      "presentacion": "Envase con 50 Grageas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 222,
+      "clave": "S/C",
+      "descripcion": "Alfuzosina 10 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 223,
+      "clave": "S/C",
+      "descripcion": "Esporas de Bacillus Clusii 2 Billones",
+      "presentacion": "Caja con 20 Ámpulas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 224,
+      "clave": "S/C",
+      "descripcion": "Floroglucinol / Trimetilfloroglucinol 80/80mg Cápsula",
+      "presentacion": "Caja con 20 Cápsulas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 225,
+      "clave": "S/C"
+    },
+    {
+      "id": 226,
+      "clave": "S/C",
+      "descripcion": "Meclizina/ Piridoxina/Lidocaína 25 mg / 50 mg /20 mg Solución Inyectable",
+      "presentacion": "Caja con 1 ampolleta de 1 ml",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 227,
+      "clave": "010.000.4186.00",
+      "descripcion": "Mesalazina 500 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 228,
+      "clave": "010.000.1243.00",
+      "descripcion": "Metoclopramida 4 mg Solución",
+      "presentacion": "Frasco gotero con 20 ml",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 229,
+      "clave": "S/C",
+      "descripcion": "Pantoprazol 20 mg Tableta",
+      "presentacion": "Caja con 14 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 230,
+      "clave": "010.000.5187.00",
+      "descripcion": "Omeprazol 40 mg Solución Inyectable",
+      "presentacion": "Frasco ámpula con 10 ml de diluyente",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Omeprazol"
+    },
+    {
+      "id": 231,
+      "clave": "S/C",
+      "descripcion": "Pantoprazol 40 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 232,
+      "clave": "010.000.4191.00",
+      "descripcion": "Polietilenglicol 105 g Polvo",
+      "presentacion": "Caja con 4 Sobres",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 233,
+      "clave": "010.000.5176.00",
+      "descripcion": "Sucralfato 1 g Tableta",
+      "presentacion": "Envase con 40 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Sucralfato"
+    },
+    {
+      "id": 234,
+      "clave": "010.000.4504.00",
+      "descripcion": "Sulfasalazina 500 mg Tableta",
+      "presentacion": "Envase con 60 Tabletas",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 235,
+      "clave": "S/C",
+      "descripcion": "Trimebutina 2 g Suspension",
+      "presentacion": "Frasco con 100 ml y dosificador",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 236,
+      "clave": "010.000.1363.00",
+      "descripcion": "Lidocaína/hidrocortisona/aluminio/oxido de zinc 5 g / 0.25 g / 3.5 g / 18 g Ungüento",
+      "presentacion": "Caja con tubo de 20 g",
+      "clasificacion": "Gastroenterología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Aluminio y magnesio"
+    },
+    {
+      "id": 237,
+      "clave": "S/C",
+      "descripcion": "Estradiol / Ciproterona 2 mg / 1 mg Grageas",
+      "presentacion": "Envase con 21 Grageas",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 238,
+      "clave": "S/C",
+      "descripcion": "Fluocinolona, Metronidazol, Nistatina 0.5 mg /500 mg/100000 U Óvulo",
+      "presentacion": "Caja con 10 Óvulos",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Fluocinolona"
+    },
+    {
+      "id": 239,
+      "clave": "010.000.4164.00",
+      "descripcion": "Ácido Alendrónico 70 mg Comprimido o Tableta",
+      "presentacion": "Envase con 4 Tabletas o Comprimidos",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 240,
+      "clave": "S/C",
+      "descripcion": "Drospirenona/etinilestradiol 3 mg/0.03 mg Comprimido",
+      "presentacion": "Caja con 21 Comprimidos",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 241,
+      "clave": "S/C",
+      "descripcion": "Algestona/Estradiol 150 mg / 10 mg Solución Inyectable",
+      "presentacion": "Caja con una ampolleta de 1 ml",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 242,
+      "clave": "S/C",
+      "descripcion": "Betametasona/Clotrimazol/Gentamicina50 mg /1 g /0.1 g Crema",
+      "presentacion": "Tubo con 25 g de Crema",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Gentamicina"
+    },
+    {
+      "id": 243,
+      "clave": "S/C",
+      "descripcion": "Cimicifuga Racemosa 6.5 mg Cápsula",
+      "presentacion": "Caja con 30 Cápsulas",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 244,
+      "clave": "010.000.1511.00",
+      "descripcion": "Ciproterona/ Etinilestradiol 2 mg/ 0.035 mg Tableta o gragea",
+      "presentacion": "Envase con 21 Tabletas o grageas",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 245,
+      "clave": "S/C",
+      "descripcion": "Clotrimazol 2 g Crema",
+      "presentacion": "Tubo con 20 g de Crema V. con 3 aplicadores",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 246,
+      "clave": "S/C",
+      "descripcion": "Testosterona/Estradiol 50 mg/25 mg Solución Inyectable",
+      "presentacion": "Caja con una jeringa prellenada con 0.5 ml y aguja esteril desechable",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 247,
+      "clave": "S/C",
+      "descripcion": "Estriol 0.5 mg Ovulo",
+      "presentacion": "Envase de burbuja con 15 Óvulos.",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 248,
+      "clave": "S/C",
+      "descripcion": "Estriol 1 mg Crema",
+      "presentacion": "Tubo con 15 g de Crema",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 249,
+      "clave": "010.000.1506.00",
+      "descripcion": "Estrógenos Conjugados Crema Vaginal 62.5 mg",
+      "presentacion": "Caja con tubo de 43 g de Crema",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 250,
+      "clave": "010.000.3412.00",
+      "descripcion": "Indometacina 100 mg Supositorio",
+      "presentacion": "Envase con 6 Supositorios",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Indometacina"
+    },
+    {
+      "id": 251,
+      "clave": "010.000.3045.00",
+      "descripcion": "Medroxiprogesterona 150 mg Suspensión Inyectable",
+      "presentacion": "Frasco ámpula o Jeringa Prellenada de 1 ml",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 252,
+      "clave": "010.000.4217.00",
+      "descripcion": "Progesterona 200 mg Perla",
+      "presentacion": "Envase con 14 Perlas",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 253,
+      "clave": "S/C",
+      "descripcion": "Tibolona 2.5 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 254,
+      "clave": "010.000.3509.00",
+      "descripcion": "Medroxiprogesterona/ Estradiol 25 mg/ 5 mg Suspensión Inyectable",
+      "presentacion": "Ampolleta o Jeringa Prellenada con 0.5 ml",
+      "clasificacion": "Gineco-Obstetricia",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 255,
+      "clave": "010.000.1704.00",
+      "descripcion": "Hierro Polimaltosado Solución gotas",
+      "presentacion": "Envase gotero con 20 ml",
+      "clasificacion": "Hematología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 256,
+      "clave": "010.000.0624.01",
+      "descripcion": "Acenocumarol 4 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Hematología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 257,
+      "clave": "010.000.5731.00",
+      "descripcion": "Apixaban 2.5 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Hematología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 258,
+      "clave": "010.000.4241.00",
+      "descripcion": "Dexametasona 8 mg Solución Inyectable",
+      "presentacion": "Frasco ámpula o ampolleta con 2 ml",
+      "clasificacion": "Hematología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 259,
+      "clave": "010.000.2156.00",
+      "descripcion": "Espironolactona 100 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 260,
+      "clave": "010.000.2304.01",
+      "descripcion": "Espironolactona 25 mg Tableta",
+      "presentacion": "Envase 30 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 261,
+      "clave": "010.000.2307.00",
+      "descripcion": "Furosemida 40 mg Tableta",
+      "presentacion": "Envase con 24 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 262,
+      "clave": "010.000.2301.00",
+      "descripcion": "Hidroclorotiazida 25 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 263,
+      "clave": "S/C",
+      "descripcion": "Alfa Cetoanalogos de Aminoácidos 630 mg Tableta",
+      "presentacion": "Envase con 100 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 264,
+      "clave": "010.000.5319.00",
+      "descripcion": "Dutasterida 0.5 mg Cápsula",
+      "presentacion": "Envase con 30 Cápsulas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 265,
+      "clave": "010.000.2331.00",
+      "descripcion": "Fenazopiridina 100 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Fenazopiridina"
+    },
+    {
+      "id": 266,
+      "clave": "S/C",
+      "descripcion": "Furosemida/Espironolactona 50 mg/20 mg Cápsula",
+      "presentacion": "Envase con 16 Cápsulas o Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 267,
+      "clave": "S/C",
+      "descripcion": "Prazosina 1 mg Cápsula",
+      "presentacion": "Envase con 30 Cápsulas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 268,
+      "clave": "S/C",
+      "descripcion": "Sildenafil 50 mg Tableta",
+      "presentacion": "Caja con 8 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 269,
+      "clave": "010.000.5309.02",
+      "descripcion": "Tamsulosina 0.4 mg Cápsula",
+      "presentacion": "caja con 20 Cápsulas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 270,
+      "clave": "010.000.4304.00",
+      "descripcion": "Tolterodina 2 mg Tableta",
+      "presentacion": "Envase con 14 Tabletas",
+      "clasificacion": "Nefrología Y Urología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 271,
+      "clave": "010.000.2462.00",
+      "descripcion": "Ambroxol 30 mg Comprimido",
+      "presentacion": "Caja con 20 Comprimidos",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ambroxol"
+    },
+    {
+      "id": 272,
+      "clave": "010.000.2463.00",
+      "descripcion": "Ambroxol 300 mg Solución",
+      "presentacion": "Envase con 120 ml",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ambroxol"
+    },
+    {
+      "id": 273,
+      "clave": "010.000.2433.00",
+      "descripcion": "Benzonatato 100 mg Perla o Cápsula",
+      "presentacion": "Envase con 20 Perlas o Cápsulas",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Benzonatato"
+    },
+    {
+      "id": 274,
+      "clave": "S/C",
+      "descripcion": "Bromhexina 160 mg Solución",
+      "presentacion": "solucion 120 ml",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 275,
+      "clave": "010.000.2158.00",
+      "descripcion": "Bromhexina 80 mg Solución",
+      "presentacion": "Envase con 100 ml y dosificador",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 276,
+      "clave": "010.000.2190.01",
+      "descripcion": "Ipratropio / Salbutamol 20 mg Solución para Inhalación disparos",
+      "presentacion": "Envase con 120 Disparos",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Salbutamol"
+    },
+    {
+      "id": 277,
+      "clave": "010.000.2188.00",
+      "descripcion": "Ipratropio / Salbutamol 0.50 mg / 2.50 mg Solución Inyectable",
+      "presentacion": "Caja con 10 Ampolletas de 2.5 ml",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Salbutamol"
+    },
+    {
+      "id": 278,
+      "clave": "010.000.0429.00",
+      "descripcion": "Salbutamol 20 mg Suspensión en Aerosol",
+      "presentacion": "Envase con Inhalador con 200 dosis de 100 µg",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Salbutamol"
+    },
+    {
+      "id": 279,
+      "clave": "S/C",
+      "descripcion": "Salbutamol / Ambroxol 0.040 mg/0.150 mg Solución",
+      "presentacion": "Solución 120 ml",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ambroxol"
+    },
+    {
+      "id": 280,
+      "clave": "S/C",
+      "descripcion": "Budesonida 0.125 mg Suspensión",
+      "presentacion": "Caja con 5 Ampulas",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 281,
+      "clave": "S/C",
+      "descripcion": "Dropropizina 300 mg Jarabe",
+      "presentacion": "Frasco con 120 ml",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 282,
+      "clave": "S/C",
+      "descripcion": "Levodropropizina 10 mg Jarabe",
+      "presentacion": "Frasco con 120ml",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 283,
+      "clave": "010.000.4329.00",
+      "descripcion": "Montelukast 5 mg Comprimido Masticable",
+      "presentacion": "Envase con 30 Comprimidos",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 284,
+      "clave": "010.000.4330.00",
+      "descripcion": "Montelukast 10 mg Comprimido Recubierto o Tableta Masticable",
+      "presentacion": "Envase con 30 Comprimidos o 10 Tabletas Masticables",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 285,
+      "clave": "010.000.2198.00",
+      "descripcion": "Oximetazolina 50 mg Solución Nasal",
+      "presentacion": "Frasco con gotero integral con 20 ml",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Oximetazolina"
+    },
+    {
+      "id": 286,
+      "clave": "S/C",
+      "descripcion": "Piracetam 800 mg Tabletas",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 287,
+      "clave": "S/C",
+      "descripcion": "Salmeterol / Fluticasona 25 μg/ 50 μg Aerosol para inhalación",
+      "presentacion": "Frasco con 120 dosis y dispositivo inhalador",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 288,
+      "clave": "010.000.2262.00",
+      "descripcion": "Bromuro de Tiotropio 18 µg Cápsula",
+      "presentacion": "Caja con 30 Cápsulas y dispositivo dosificador",
+      "clasificacion": "Neumología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 289,
+      "clave": "040.000.2608.00",
+      "descripcion": "Carbamazepina 200 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas.",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Carbamazepina"
+    },
+    {
+      "id": 290,
+      "clave": "010.000.3308.00",
+      "descripcion": "Atomoxetina 90 mg Cápsula",
+      "presentacion": "Envase con 14 Cápsulas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 291,
+      "clave": "S/C",
+      "descripcion": "Betahistina 24 mg Tableta",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 292,
+      "clave": "S/C",
+      "descripcion": "Escitalopram 10 mg Tableta",
+      "presentacion": "Envase con 28 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 293,
+      "clave": "S/C",
+      "descripcion": "Escitalopram 20 mg Tableta",
+      "presentacion": "Envase con 28 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 294,
+      "clave": "010.000.0525.00",
+      "descripcion": "Fenitoína 100 mg Cápsula o Tableta",
+      "presentacion": "Envase con 50 Cápsulas o Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Fenitoína"
+    },
+    {
+      "id": 295,
+      "clave": "S/C",
+      "descripcion": "Flunarizina 10 mg Tableta",
+      "presentacion": "Envase 20 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 296,
+      "clave": "S/C",
+      "descripcion": "Flunarizina 5 mg Capsula",
+      "presentacion": "Envase con 40 Capsulas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 297,
+      "clave": "010.000.4483.00",
+      "descripcion": "Fluoxetina 20 mg Cápsula o Tableta",
+      "presentacion": "Envase con 14 Cápsulas o Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Fluoxetina"
+    },
+    {
+      "id": 298,
+      "clave": "S/C",
+      "descripcion": "Gabapentina 300 mg Cápsula",
+      "presentacion": "Envase con 30 Cápsulas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Gabapentina"
+    },
+    {
+      "id": 299,
+      "clave": "S/C",
+      "descripcion": "Lamotrigina 100 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 300,
+      "clave": "S/C",
+      "descripcion": "Levetiracetam 1 g Tableta",
+      "presentacion": "Caja con 30 tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 301,
+      "clave": "S/C",
+      "descripcion": "Levetiracetam 500 mg Tabletas",
+      "presentacion": "Caja con 30 tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 302,
+      "clave": "040.000.2654.00",
+      "descripcion": "Levodopa/Carbidopa 250 mg / 25 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 303,
+      "clave": "S/C",
+      "descripcion": "Memantina 10 mg Comprimido o Tableta",
+      "presentacion": "Caja con 30 Comprimidos o Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 304,
+      "clave": "S/C",
+      "descripcion": "Memantina 20 mg Comprimido o Tableta",
+      "presentacion": "Caja con 28 Comprimidos o Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 305,
+      "clave": "S/C",
+      "descripcion": "Mirtazapina 30 mg Tabletas",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 306,
+      "clave": "010.000.5486.00",
+      "descripcion": "Olanzapina 10 mg Tableta",
+      "presentacion": "Envase con 14 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 307,
+      "clave": "S/C",
+      "descripcion": "Quetiapina 25 mg tabletas",
+      "presentacion": "Caja con 30 tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 308,
+      "clave": "010.000.5489.00",
+      "descripcion": "Quetiapina 100 mg Tabletas",
+      "presentacion": "Caja con 60 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 309,
+      "clave": "S/C",
+      "descripcion": "Rasagilina 1 mg Tabletas",
+      "presentacion": "Caja con 30 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 310,
+      "clave": "010.000.5365.00",
+      "descripcion": "Topiramato 25 mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 311,
+      "clave": "S/C",
+      "descripcion": "Valproato de Magnesio 200 mg Tableta",
+      "presentacion": "Caja con 40 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Valproato de magnesio"
+    },
+    {
+      "id": 312,
+      "clave": "S/C",
+      "descripcion": "Valproato de Magnesio 500 mg Tableta",
+      "presentacion": "Caja con 20 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Valproato de magnesio"
+    },
+    {
+      "id": 313,
+      "clave": "010.000.2630.00",
+      "descripcion": "Valproato Semisódico 500 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas de Liberación Prolongada",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 314,
+      "clave": "010.000.4488.00",
+      "descripcion": "Venlafaxina 75 mg Cápsula o Gragea de Liberación Prolongada",
+      "presentacion": "Envase con 10 Cápsulas o Grageas de Liberación Prolongada",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 315,
+      "clave": "S/C",
+      "descripcion": "Duloxetina 30 mg Capsulas",
+      "presentacion": "Envase con 28 Capsulas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 316,
+      "clave": "S/C",
+      "descripcion": "Duloxetina 60 mg Cápsula de Liberación Retardada",
+      "presentacion": "Envase con 28 Cápsulas de Liberación Retardada",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 317,
+      "clave": "010.000.5481.00",
+      "descripcion": "Paroxetina 20 mg Tableta",
+      "presentacion": "Caja con 10 Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 318,
+      "clave": "040.000.4484.00",
+      "descripcion": "Sertralina 50 mg Cápsula o Tableta",
+      "presentacion": "Envase con 14 Cápsulas o Tabletas",
+      "clasificacion": "Neurología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Sertralina"
+    },
+    {
+      "id": 319,
+      "clave": "S/C",
+      "descripcion": "Ácido Fólico / Hierro Polimaltosado 100 mg / 8800mcg Gragea o Tableta",
+      "presentacion": "Envase con 30 Grageas oTabletas",
+      "clasificacion": "Nutriología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 320,
+      "clave": "010.000.2707.00",
+      "descripcion": "Ácido Ascórbico 100 mg Tableta",
+      "presentacion": "Caja con 20 Tabletas",
+      "clasificacion": "Nutriología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Ácido ascórbico"
+    },
+    {
+      "id": 321,
+      "clave": "010.000.1700.00",
+      "descripcion": "Ácido Fólico 5 mg Tableta",
+      "presentacion": "Caja con 90 Tabletas",
+      "clasificacion": "Nutriología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 322,
+      "clave": "010.000.2714.00",
+      "descripcion": 100,
+      "presentacion": 5,
+      "clasificacion": 50
+    },
+    {
+      "id": 323,
+      "clave": "010.000.5383.00"
+    },
+    {
+      "id": 2500,
+      "clave": 200,
+      "descripcion": 15,
+      "presentacion": 60,
+      "clasificacion": 1.05,
+      "nivel_atencion": 1.2,
+      "nombre_farmaco": 1.05
+    },
+    {
+      "id": 324,
+      "clave": "S/C",
+      "descripcion": "Sulfato Ferroso 200 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Nutriología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Sulfato ferroso"
+    },
+    {
+      "id": 325,
+      "clave": "010.000.4376.00"
+    },
+    {
+      "id": 326,
+      "clave": "S/C",
+      "descripcion": "Fumarato Ferroso/ Ácido Fólico, Vitamina B12 / Vitamina C y Vitamina E 350 mg/ 1 mg/ 25 mcg/ 600 mg / 25.83 mg Gragea o Tableta",
+      "presentacion": "Envase con 36 Grageas o Tabletas",
+      "clasificacion": "Nutriología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 327,
+      "clave": "S/C",
+      "descripcion": "Carbonato de calcio /Colecalciferol 600 mg /400 UI Tabletas",
+      "presentacion": "Envase con 60 Tabletas",
+      "clasificacion": "Nutriología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 328,
+      "clave": "010.000.2821.00",
+      "descripcion": "Cloranfenicol 5 mg Solución Oftálmica",
+      "presentacion": "Gotero integral con 15 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "1er Nivel"
+    },
+    {
+      "id": 329,
+      "clave": "010.000.2822.00",
+      "descripcion": "Cloranfenicol 5 mg Ungüento Oftálmico",
+      "presentacion": "Envase con 5 g",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "1er Nivel"
+    },
+    {
+      "id": 330,
+      "clave": "010.000.2804.00",
+      "descripcion": "Nafazolina 1 mg Solución Oftálmica",
+      "presentacion": "Gotero integral con 15 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Nafazolina"
+    },
+    {
+      "id": 331,
+      "clave": "010.000.2823.00",
+      "descripcion": "Neomicina, Polimixina B, Sulfato de Gramicidina 1.75 mg/ 5 000 U/ 25 μg Solución Oftálmica",
+      "presentacion": "Envase con gotero Integral de 15 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Neomicina + polimixina B + gramicidina"
+    },
+    {
+      "id": 332,
+      "clave": "010.000.2172.00",
+      "descripcion": "Alcohol Polivinílico 14 mg Solución Oftálmica",
+      "presentacion": "Gotero integral con 15 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Alcohol polivinílico"
+    },
+    {
+      "id": 333,
+      "clave": "S/C",
+      "descripcion": "Brimonidina 0.15% Solucion Oftálmica",
+      "presentacion": "Frasco gotero con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 334,
+      "clave": "010.000.2176.00",
+      "descripcion": "Dexametasona 0.1 mg Solucion Oftálmica",
+      "presentacion": "Envase con frasco gotero de 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 335,
+      "clave": "010.000.4408.01",
+      "descripcion": "Diclofenaco Sódico 1.0 mg Solución Oftálmica",
+      "presentacion": "Envase con gotero Integral de 15 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 336,
+      "clave": "S/C",
+      "descripcion": "Dorzolamida/ Brimonidina/ Timolol 20 mg / 2 mg /5 mg Solución Oftálmica",
+      "presentacion": "Caja con frasco gotero con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Timolol"
+    },
+    {
+      "id": 337,
+      "clave": "010.000.4420.00",
+      "descripcion": "Brimonidina / Timolol 2 mg / 6.8 mg Solución Oftálmica",
+      "presentacion": "Caja con frasco gotero con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Timolol"
+    },
+    {
+      "id": 338,
+      "clave": "S/C",
+      "descripcion": "Carboximetilcelulosa sódica 0.5 mg",
+      "presentacion": "Caja con frasco gotero con 10 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 339,
+      "clave": "010.000.2174.00",
+      "descripcion": "Ciprofloxacino 3 mg Solución Oftálmica",
+      "presentacion": "Caja con frasco gotero con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Ciprofloxacino"
+    },
+    {
+      "id": 340,
+      "clave": "S/C",
+      "descripcion": "Dexpantenol 5% Gel oftálmico",
+      "presentacion": "Tubo con 10 g",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 341,
+      "clave": "010.000.4410.00",
+      "descripcion": "Dorzolamida 20 mg Solución Oftálmica",
+      "presentacion": "Caja con frasco gotero con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 342,
+      "clave": "010.000.4412.00",
+      "descripcion": "Dorzolamida / Timolol 20 mg / 5 mg Solución Oftálmica",
+      "presentacion": "Caja con frasco gotero de 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Timolol"
+    },
+    {
+      "id": 343,
+      "clave": "S/C",
+      "descripcion": "Hialuronato de Sodio 4 mg Solución Oftálmica",
+      "presentacion": "Frasco gotero con 10 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 344,
+      "clave": "S/C",
+      "descripcion": "Hipromelosa 5% Solución Oftálmica",
+      "presentacion": "Frasco gotero con 10 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 345,
+      "clave": "S/C",
+      "descripcion": "Latanoprost 50 mcg Solución Oftálmica",
+      "presentacion": "Frasco gotero con 3 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 346,
+      "clave": "S/C",
+      "descripcion": "Bromfenaco 0.9 mg Solución Oftálmica",
+      "presentacion": "Envase con frasco gotero de 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 347,
+      "clave": "010.000.2841.00",
+      "descripcion": "Prednisolona 5mg Solución Oftálmica",
+      "presentacion": "Envase con frasco gotero de 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 348,
+      "clave": "S/C",
+      "descripcion": "Prednisolona Sulfacetamida 4.50 mg Ungüento Oftálmico",
+      "presentacion": "Caja con tubo con 3 g",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 349,
+      "clave": "010.000.2186.00",
+      "descripcion": "Prednisolona / Sulfacetamida 5 mg Suspensión Oftálmica",
+      "presentacion": "Envase con gotero integrado con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 350,
+      "clave": "010.000.2858.00",
+      "descripcion": "Timolol 5 mg Solución Oftálmica",
+      "presentacion": "Envase con gotero integrado con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Timolol"
+    },
+    {
+      "id": 351,
+      "clave": "S/C",
+      "descripcion": "Tobramicina 3mg Ungüento Oftálmico",
+      "presentacion": "Unguento oftálmico con 3.5 g",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 352,
+      "clave": "S/C",
+      "descripcion": "Tobramicina / Dexametasona 3 mg Solución Oftálmica",
+      "presentacion": "Frasco con gotero integrado con 5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 353,
+      "clave": "010.000.4418.00",
+      "descripcion": "Travoprost 40 µg Solución Oftálmica",
+      "presentacion": "Frasco con gotero con 2.5 ml",
+      "clasificacion": "Oftalmología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 354,
+      "clave": "010.000.3112.00",
+      "descripcion": "Difenidol 40 mg Solución Inyectable",
+      "presentacion": "Caja con 2 Ampolletas de 2 ml",
+      "clasificacion": "Otorrinolaringología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Difenidol"
+    },
+    {
+      "id": 355,
+      "clave": "010.000.3111.00",
+      "descripcion": "Difenidol 25 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Otorrinolaringología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Difenidol"
+    },
+    {
+      "id": 356,
+      "clave": "010.000.5451.00",
+      "descripcion": "Cinarizina 75 mg Tableta",
+      "presentacion": "Envase con 60 Tabletas",
+      "clasificacion": "Otorrinolaringología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Cinarizina"
+    },
+    {
+      "id": 357,
+      "clave": "S/C",
+      "descripcion": "Hidrocortisona / Cloranfenicol / Benzocaina 10 mg/ 25 mg / 20 mg Solucion Ótica",
+      "presentacion": "Frasco gotero con 10 ml",
+      "clasificacion": "Otorrinolaringología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 358,
+      "clave": "010.000.3132.00",
+      "descripcion": "Neomicina,Polimixina B, Fluocinolona, Lidocaína 0.025 g / 1 000 000 U/ 0.350 g/ 2.0 g Solución Ótica",
+      "presentacion": "Envase con gotero integral de 5 ml Solución ótica",
+      "clasificacion": "Otorrinolaringología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Fluocinolona"
+    },
+    {
+      "id": 359,
+      "clave": "S/C",
+      "descripcion": "Lidocaína / Ofloxacino / Hidrocortisona 10.00/3.00/2.50 Solución Ótica",
+      "presentacion": "Frasco gotero con 10 ml",
+      "clasificacion": "Otorrinolaringología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Hidrocortisona"
+    },
+    {
+      "id": 360,
+      "clave": "010.000.3451.00",
+      "descripcion": "Alopurinol 300 mg Tableta",
+      "presentacion": "Caja con 20 Tabletas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Alopurinol"
+    },
+    {
+      "id": 361,
+      "clave": "010.000.3409.00",
+      "descripcion": "Colchicina 1 mg Tableta",
+      "presentacion": "Envase con 30 Tabletas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Colchicina"
+    },
+    {
+      "id": 362,
+      "clave": "S/C",
+      "descripcion": 400,
+      "presentacion": 3
+    },
+    {
+      "id": 363,
+      "clave": "S/C",
+      "descripcion": 800,
+      "presentacion": 3
+    },
+    {
+      "id": 364,
+      "clave": "010.000.3417.00",
+      "descripcion": "Diclofenaco 100 mg Cápsula O Gragea De Liberación Prolongada",
+      "presentacion": "Envase con 20 Cápsulas o Grageas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "1er Nivel"
+    },
+    {
+      "id": 365,
+      "clave": "S/C",
+      "descripcion": "Naproxeno 550 mg Tableta",
+      "presentacion": "Envase con 12 Tabletas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": "Naproxeno"
+    },
+    {
+      "id": 366,
+      "clave": "S/C",
+      "descripcion": "Ácido Ibandrónico 150 Tableta",
+      "presentacion": "Caja con 1 Tableta",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 367,
+      "clave": "010.000.3461.00",
+      "descripcion": "Azatioprina 50 mg Tableta",
+      "presentacion": "Envase con 50 Tabletas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 368,
+      "clave": "010.000.5505.00",
+      "descripcion": "Celecoxib 200 mg Cápsula",
+      "presentacion": "Caja con 20 Cápsulas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 369,
+      "clave": "S/C",
+      "descripcion": 100,
+      "presentacion": 50,
+      "clasificacion": 10
+    },
+    {
+      "id": 370,
+      "clave": "S/C",
+      "descripcion": "Crotamiton 10 g Crema",
+      "presentacion": "Caja con tubo con 30 g",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 371,
+      "clave": "010.000.5501.00",
+      "descripcion": "Diclofenaco 75 mg Solución Inyectable",
+      "presentacion": "Caja con 2 Ampolletas con 3 ml",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 372,
+      "clave": "S/C",
+      "descripcion": "Bencidamina 5 g Gel",
+      "presentacion": "Caja con tubo de 60 g",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 373,
+      "clave": "S/C",
+      "descripcion": "Diclofenaco 100 mg Gel",
+      "presentacion": "Tubo con 60 g",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel"
+    },
+    {
+      "id": 374,
+      "clave": "S/C",
+      "descripcion": "Diosmina /Hesperidina 450/50mg Tableta",
+      "presentacion": "Envase con 20 Tabletas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 375,
+      "clave": "S/C",
+      "descripcion": "Diosmina 600 mg Comprimido",
+      "presentacion": "Envase con 30 Comprimidos",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 376,
+      "clave": "010.000.5699.00",
+      "descripcion": "Etoricoxib 90 mg Comprimido",
+      "presentacion": "Envase con 28 Comprimidos",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 377,
+      "clave": "S/C",
+      "descripcion": "Glucosamida/condroitina 1.500 g /1.200 g Polvo",
+      "presentacion": "Caja con 30 Sobres",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 378,
+      "clave": "S/C",
+      "descripcion": "Hidroxicloroquina 200 mg Tableta",
+      "presentacion": "Caja con 20 Tabletas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 379,
+      "clave": "S/C",
+      "descripcion": "Hilano G-F 20 solucion inyectable",
+      "presentacion": "Caja con una jeringa con 6 ml",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 380,
+      "clave": "010.000.4514.00",
+      "descripcion": "Leflunomida 20 mg Comprimido",
+      "presentacion": "Envase con 30 Comprimidos",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 381,
+      "clave": "S/C",
+      "descripcion": "Meloxicam, Metocarbamol 7.5 mg / 215 mg Cápsula",
+      "presentacion": "Caja con 20 Cápsulas",
+      "clasificacion": "Reumatología Y Traumatología",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 382,
+      "clave": "010.000.3623.00",
+      "descripcion": "Electrólitos Orales. Sobre Con Polvo Contiene: Glucosa 20 g, Cloruro de Potasio 1.5 g, Cloruro de Sodio 3.5 g Citrato Trisódico Dihidratado 2.9 g",
+      "presentacion": "Envase con 27.9 g",
+      "clasificacion": "Soluciones Electrolíticas Y Sustitutos Del Plasma",
+      "nivel_atencion": "1er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 383,
+      "clave": "010.000.5449.00",
+      "descripcion": "Anastrozol 1 mg Tableta",
+      "presentacion": "Envase con 28 Tabletas",
+      "clasificacion": "Oncologicos e Inmunomoduladores",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 384,
+      "clave": "S/C",
+      "descripcion": "Bicalutamida 50 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Oncologicos e Inmunomoduladores",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 385,
+      "clave": "010.000.4302.00",
+      "descripcion": "Finasterida 5 mg Gragea o Tableta Recubierta",
+      "presentacion": "Envase con 30 Grageas o Tabletas Recubiertas",
+      "clasificacion": "Oncologicos e Inmunomoduladores",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 386,
+      "clave": "010.000.1759.00",
+      "descripcion": "Metotrexato 2.5 mg Tableta",
+      "presentacion": "Envase con 50 Tabletas",
+      "clasificacion": "Oncologicos e Inmunomoduladores",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 387,
+      "clave": "010.000.3047.00",
+      "descripcion": "Tamoxifeno 20 mg Tableta",
+      "presentacion": "Envase con 14 Tabletas",
+      "clasificacion": "Oncologicos e Inmunomoduladores",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 388,
+      "clave": "S/C",
+      "descripcion": "Cefuroxima 250 mg Suspensión",
+      "presentacion": "Caja con frasco con polvo para 50 ml y dosificador",
+      "clasificacion": "Pediatria",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 389,
+      "clave": "S/C",
+      "descripcion": "Formula láctea Etapa 1 optipro",
+      "presentacion": "Envase con 400 g polvo",
+      "clasificacion": "Pediatria",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 390,
+      "clave": "S/C",
+      "descripcion": "Formula láctea sin lactosa",
+      "presentacion": "Envase 400 g polvo",
+      "clasificacion": "Pediatria",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 391,
+      "clave": "S/C",
+      "descripcion": "Fosfomicina 500 mg Cápsulas",
+      "presentacion": "Envase con 12 Cápsulas",
+      "clasificacion": "Pediatria",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 392,
+      "clave": "S/C",
+      "descripcion": "Azitromicina 200 mg Suspensión",
+      "presentacion": "Caja con frasco con polvo para 15 ml con diluyente y dosificador.",
+      "clasificacion": "Pediatria",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": "Azitromicina"
+    },
+    {
+      "id": 393,
+      "clave": "S/C",
+      "descripcion": "Retinol/Ergocalciferol 3.53 mg/ 10 μg Solución",
+      "presentacion": "Caja con ampolletas de 3 ml",
+      "clasificacion": "Pediatria",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    },
+    {
+      "id": 394,
+      "clave": "010.000.5487.00",
+      "descripcion": "Citalopram 20 mg Tableta",
+      "presentacion": "Caja con 28 Tabletas",
+      "clasificacion": "Psiquiatría",
+      "nivel_atencion": "2do Y 3er Nivel",
+      "nombre_farmaco": null
+    }
+  ]
+}
